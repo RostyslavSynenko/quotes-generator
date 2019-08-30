@@ -16,6 +16,7 @@ class QuotesContsiner extends React.Component {
   }
 
   handleClick = event => {
+    console.log(event)
     const colorArray = [
       "#002962", "#007c86", "#9e324d", "#da1820",
       "#fcd134", "#79c142", "#70c405", "#0397d5", "#37baf5",
@@ -68,7 +69,7 @@ class QuotesContsiner extends React.Component {
     return (
       <div id="quote-box">
         <Quote quote={this.state.quote} author={this.state.author} />
-        <Buttons handleClick={this.handleClick} />
+        <Buttons handleClick={this.handleClick} quote={this.state.quote} author={this.state.author} />
       </div>
     );
   }
