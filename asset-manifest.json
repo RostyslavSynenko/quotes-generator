@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/quotes-generator/static/css/main.ceadec95.chunk.css",
+    "main.css": "/quotes-generator/static/css/main.8600dd29.chunk.css",
     "main.js": "/quotes-generator/static/js/main.2273e267.chunk.js",
     "main.js.map": "/quotes-generator/static/js/main.2273e267.chunk.js.map",
     "runtime~main.js": "/quotes-generator/static/js/runtime~main.07755177.js",
@@ -8,8 +8,8 @@
     "static/js/2.fd8fc580.chunk.js": "/quotes-generator/static/js/2.fd8fc580.chunk.js",
     "static/js/2.fd8fc580.chunk.js.map": "/quotes-generator/static/js/2.fd8fc580.chunk.js.map",
     "index.html": "/quotes-generator/index.html",
-    "precache-manifest.62036cea1c5b7070f9964b30abedd2ab.js": "/quotes-generator/precache-manifest.62036cea1c5b7070f9964b30abedd2ab.js",
+    "precache-manifest.878fcc82844eef7615905a2562288627.js": "/quotes-generator/precache-manifest.878fcc82844eef7615905a2562288627.js",
     "service-worker.js": "/quotes-generator/service-worker.js",
-    "static/css/main.ceadec95.chunk.css.map": "/quotes-generator/static/css/main.ceadec95.chunk.css.map"
+    "static/css/main.8600dd29.chunk.css.map": "/quotes-generator/static/css/main.8600dd29.chunk.css.map"
   }
 }
