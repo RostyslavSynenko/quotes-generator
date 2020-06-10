@@ -1,14 +1,14 @@
 import React from 'react';
 
-import QuotesContainer from './QuotesContainer';
+import { QuotesProvider } from './QuotesContext';
+import QuotesContainer from './components/QuotesContainer';
 
-function App() {
+const App = () => {
   return (
-    <div className="container">
+    <QuotesProvider>
       <QuotesContainer />
-      <a href="https://github.com/RostyslavSynenko" className="by">by RSynenko</a>
-    </div>
+    </QuotesProvider>
   );
-}
+};
 
 export default App;

@@ -1,5 +1,6 @@
 # quotes-generator
-simple react app2
+
+https://rostyslavsynenko.github.io/quotes-generator/
 
 User Story #1: I can see a wrapper element with a corresponding id="quote-box".
 
